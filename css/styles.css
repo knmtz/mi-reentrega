@@ -31,7 +31,7 @@ body {
     font-weight: 700;
   }
   
-  /* Ajuste de tamaño para el logo */
+ 
   .img-logo {
     max-height: 120px;
   }
@@ -103,12 +103,12 @@ body {
   
   /* Estilos para dispositivos móviles */
   @media (max-width: 768px) {
-    /* Ajuste del tamaño del logo en el navbar */
+    
     .navbar-brand img {
       max-height: 80px;
     }
   
-    /* Ajuste del tamaño del texto en el banner */
+    
     #banner h1 {
       font-size: 2rem;
     }
@@ -117,7 +117,7 @@ body {
       font-size: 1rem;
     }
   
-    /* Ajuste del tamaño del texto en las secciones */
+    
     section h2 {
       font-size: 1.5rem;
     }
@@ -130,7 +130,7 @@ body {
       font-size: 0.9rem;
     }
   
-    /* Ajuste del tamaño del texto en el footer */
+    
     footer h3 {
       font-size: 1.2rem;
     }
